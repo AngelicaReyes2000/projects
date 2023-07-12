@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 * {
   margin: 0;
 }
@@ -22,3 +23,29 @@ span {
   background: red;
   color: white;
 }
+=======
+* {
+  margin: 0;
+}
+.navbar {
+  height: 2rem;
+  background: white;
+}
+.logo {
+  font-size: 2rem;
+  color: red;
+}
+.hero {
+  color: white;
+  background: black;
+  min-height: calc(100vh - 2rem);
+}
+span {
+  color: red;
+  font-size: 1.3em;
+}
+.hero-btn {
+  background: red;
+  color: white;
+}
+>>>>>>> 1f527bb55db63c56373b50873d512dd803e5214e
