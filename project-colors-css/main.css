@@ -1,0 +1,14 @@
+body {
+  background: #f1f5f9;
+}
+.container {
+  color: gray;
+  background: #fff;
+}
+h3 {
+  color: #645cff;
+}
+.special-container {
+  color: gray;
+  background: rgba(0, 0, 0, 0.9);
+}
